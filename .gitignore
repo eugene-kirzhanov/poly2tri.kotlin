@@ -1,0 +1,14 @@
+.gradle/
+build/
+*.iml
+/.idea/caches
+/.idea/dictionaries
+/.idea/libraries
+/.idea/shelf
+/.idea/gradle.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml

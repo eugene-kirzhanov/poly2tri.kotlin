@@ -1,0 +1,3 @@
+include ":poly2tri-kt", ":sample"
+
+enableFeaturePreview('GRADLE_METADATA')
